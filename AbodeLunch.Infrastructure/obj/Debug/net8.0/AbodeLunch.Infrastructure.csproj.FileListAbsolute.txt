@@ -1,0 +1,17 @@
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\bin\Debug\net8.0\AbodeLunch.Infrastructure.deps.json
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\bin\Debug\net8.0\AbodeLunch.Infrastructure.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\bin\Debug\net8.0\AbodeLunch.Infrastructure.pdb
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\obj\Debug\net8.0\AbodeLunch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\obj\Debug\net8.0\AbodeLunch.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\obj\Debug\net8.0\AbodeLunch.Infrastructure.AssemblyInfo.cs
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\obj\Debug\net8.0\AbodeLunch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\obj\Debug\net8.0\AbodeLunch.Infrastructure.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\obj\Debug\net8.0\refint\AbodeLunch.Infrastructure.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\obj\Debug\net8.0\AbodeLunch.Infrastructure.pdb
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\obj\Debug\net8.0\ref\AbodeLunch.Infrastructure.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\bin\Debug\net8.0\AbodeLunch.Application.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\bin\Debug\net8.0\AbodeLunch.Domain.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\bin\Debug\net8.0\AbodeLunch.Application.pdb
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\bin\Debug\net8.0\AbodeLunch.Domain.pdb
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\obj\Debug\net8.0\AbodeLunch.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Infrastructure\obj\Debug\net8.0\AbodeLun.A02771FD.Up2Date

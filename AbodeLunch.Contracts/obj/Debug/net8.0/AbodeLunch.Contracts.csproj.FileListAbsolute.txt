@@ -1,0 +1,12 @@
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\bin\Debug\net8.0\AbodeLunch.Contracts.deps.json
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\bin\Debug\net8.0\AbodeLunch.Contracts.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\bin\Debug\net8.0\AbodeLunch.Contracts.pdb
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\obj\Debug\net8.0\AbodeLunch.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\obj\Debug\net8.0\AbodeLunch.Contracts.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\obj\Debug\net8.0\AbodeLunch.Contracts.AssemblyInfo.cs
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\obj\Debug\net8.0\AbodeLunch.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\obj\Debug\net8.0\AbodeLunch.Contracts.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\obj\Debug\net8.0\refint\AbodeLunch.Contracts.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\obj\Debug\net8.0\AbodeLunch.Contracts.pdb
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\obj\Debug\net8.0\ref\AbodeLunch.Contracts.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Contracts\obj\Debug\net8.0\AbodeLunch.Contracts.csproj.AssemblyReference.cache

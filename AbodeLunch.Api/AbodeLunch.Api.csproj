@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>6530afaa-33e8-4aaa-b36c-cb3b681fa56d</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AbodeLunch.Contracts\AbodeLunch.Contracts.csproj" />
+    <ProjectReference Include="..\AbodeLunch.Application\AbodeLunch.Application.csproj" />
+    <ProjectReference Include="..\AbodeLunch.Infrastructure\AbodeLunch.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MapSter" Version="7.4.0" />
+    <PackageReference Include="MapSter.DependencyInjection" Version="1.0.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLFJ4OcZmLWf17DpOC3NxfGGtKJMXkbqnGigL7GcQLFU+WUSxjNAIMiX9kXFu/2xD97Tyig3PFGCaNCZLNO2RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\san\\Desktop\\dotnet_projects\\AbodeLunch\\AbodeLunch.Domain\\AbodeLunch.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\san\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@AbodeLunch.Api_HostAddress = http://localhost:5125
+
+GET {{AbodeLunch.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

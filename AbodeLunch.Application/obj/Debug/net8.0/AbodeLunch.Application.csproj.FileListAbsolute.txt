@@ -1,0 +1,15 @@
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\bin\Debug\net8.0\AbodeLunch.Application.deps.json
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\bin\Debug\net8.0\AbodeLunch.Application.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\bin\Debug\net8.0\AbodeLunch.Application.pdb
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\obj\Debug\net8.0\AbodeLunch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\obj\Debug\net8.0\AbodeLunch.Application.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\obj\Debug\net8.0\AbodeLunch.Application.AssemblyInfo.cs
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\obj\Debug\net8.0\AbodeLunch.Application.csproj.CoreCompileInputs.cache
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\obj\Debug\net8.0\AbodeLunch.Application.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\obj\Debug\net8.0\refint\AbodeLunch.Application.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\obj\Debug\net8.0\AbodeLunch.Application.pdb
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\obj\Debug\net8.0\ref\AbodeLunch.Application.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\bin\Debug\net8.0\AbodeLunch.Domain.dll
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\bin\Debug\net8.0\AbodeLunch.Domain.pdb
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\obj\Debug\net8.0\AbodeLunch.Application.csproj.AssemblyReference.cache
+C:\Users\san\Desktop\dotnet_projects\AbodeLunch\AbodeLunch.Application\obj\Debug\net8.0\AbodeLun.495E0890.Up2Date
