@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbodeLunch.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+771546a3adcdab7ca1c8d272d15a384080538213")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbodeLunch.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbodeLunch.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

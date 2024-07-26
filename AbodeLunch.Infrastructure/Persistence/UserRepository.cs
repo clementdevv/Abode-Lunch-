@@ -13,7 +13,7 @@ namespace AbodeLunch.Infrastructure.Persistence
         public void Add(User user)
         {
             _users.Add(user);
-        }
+        } 
 
         public User? GetUserByEmail(string email)
         {

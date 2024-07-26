@@ -42,7 +42,9 @@ public sealed class Menu : AggregateRoot<MenuId>
     public static Menu Create(
         string name,
         string description,
-        HostId hostId)
+        HostId hostId
+        // List<MenuSection>? sections
+        )
     {
         return new(
             MenuId.CreateUnique(),

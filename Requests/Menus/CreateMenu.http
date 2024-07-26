@@ -1,0 +1,26 @@
+@host=http://localhost:5125
+@token=your-auth-token
+@hostId=your-host-id
+
+POST {{host}}/hosts/{{hostId}}/menus
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{        
+    "name": "yummy Menu",
+    "description": "A menu with yummy food",
+    "sections": [
+        {
+            "name": 
+            "Appetizers",
+            "description":
+            "Starters",
+            "items": [
+                {
+                    "name": "Fried Pickles",
+                    "description": "Deep fries",
+                }
+            ]            
+        }
+    ]
+}

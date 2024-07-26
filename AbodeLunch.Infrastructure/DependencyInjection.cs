@@ -19,13 +19,23 @@ namespace AbodeLunch.Infrastructure;
             this IServiceCollection services,
             ConfigurationManager configuration)         
         {           
-            services.AddAuth(configuration);
+            services
+                .AddAuth(configuration)
+                .AddPersistance();
             services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
 
             services.AddScoped<IUserRepository, UserRepository>();
             return services;
         }
 
+        public static IServiceCollection AddPersistance(
+            this IServiceCollection services)           
+            {
+                services.AddSingleton<IUserRepository, UserRepository>();
+                services.AddScoped<IMenuRepository, MenuRepository>();
+
+                return services;
+            }
         public static IServiceCollection AddAuth(
             this IServiceCollection services,
             ConfigurationManager configuration)  
