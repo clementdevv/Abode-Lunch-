@@ -4,6 +4,7 @@ using AbodeLunch.Application.Authentication.Queries.Login;
 using AbodeLunch.Contracts.Authentication;
 
 using ErrorOr;
+
 using MapsterMapper;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;

@@ -10,7 +10,7 @@ namespace AbodeLunch.Application.Authentication.Commands.Behaviours
             where TRequest : IRequest<TResponse>
             where TResponse : IErrorOr
     {
-        private readonly IValidator<TRequest> _validator;
+        private readonly IValidator<TRequest>? _validator;
 
         public ValidationBehaviour(IValidator<TRequest>? validator = null)
         {
