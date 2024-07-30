@@ -26,5 +26,12 @@ public sealed class MenuItem : Entity<MenuItemId>
             description
         );
     }
-    
+
+    #pragma warning disable CS8618
+    private MenuItem()    
+    {
+    }
+    #pragma warning disable CS8618
 }
+    
+

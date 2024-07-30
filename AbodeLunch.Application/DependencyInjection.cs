@@ -1,8 +1,5 @@
 using System.Reflection;
 using AbodeLunch.Application.Authentication.Commands.Behaviours;
-using AbodeLunch.Application.Authentication.Commands.Register;
-using AbodeLunch.Application.Authentication.Common;
-using ErrorOr;
 using FluentValidation;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;

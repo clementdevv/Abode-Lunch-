@@ -12,5 +12,12 @@ namespace AbodeLunch.Domain.Models
         {
             
         }
+#pragma warning disable CS8618 
+    // protected AggregateRoot()        
+    // {
+
+    // }
+#pragma warning disable CS8618 
+
     }
 }

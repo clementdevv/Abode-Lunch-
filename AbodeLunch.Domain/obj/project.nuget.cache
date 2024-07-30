@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QLFJ4OcZmLWf17DpOC3NxfGGtKJMXkbqnGigL7GcQLFU+WUSxjNAIMiX9kXFu/2xD97Tyig3PFGCaNCZLNO2RQ==",
+  "dgSpecHash": "3LX8KkXWxCwcM8IF+c+WGnOf9EqLz55AUChp3o8SsAlY5eUoTAqCGUYHDyt8+gCXad662cvxgXoj60xpHCoMFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\san\\Desktop\\dotnet_projects\\AbodeLunch\\AbodeLunch.Domain\\AbodeLunch.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\san\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+    "C:\\Users\\san\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\san\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\san\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\san\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

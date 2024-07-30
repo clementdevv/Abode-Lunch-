@@ -30,5 +30,11 @@ public sealed class MenuSection : Entity<MenuSectionId>
             description
         );
     }
+    
+    #pragma warning disable CS8618
+    private MenuSection()    
+    {
+    }
+    #pragma warning disable CS8618
 
 }

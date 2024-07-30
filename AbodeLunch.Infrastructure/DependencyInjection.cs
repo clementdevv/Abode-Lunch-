@@ -4,8 +4,10 @@ using AbodeLunch.Application.Common.Interfaces.Persistence;
 using AbodeLunch.Application.Common.Interfaces.Services;
 using AbodeLunch.Infrastructure.Authentication;
 using AbodeLunch.Infrastructure.Persistence;
+using AbodeLunch.Infrastructure.Persistence.Interceptors;
 using AbodeLunch.Infrastructure.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
@@ -31,8 +33,12 @@ namespace AbodeLunch.Infrastructure;
         public static IServiceCollection AddPersistance(
             this IServiceCollection services)           
             {
-                services.AddSingleton<IUserRepository, UserRepository>();
+                services.AddDbContext<AbodeLunchDbContext>(options => options.UseSqlServer());
+
+                services.AddScoped<PublishDomainEventInterceptor>();
+                services.AddScoped<IUserRepository, UserRepository>();
                 services.AddScoped<IMenuRepository, MenuRepository>();
+                // services.AddScoped<IDinnerRepository, DinnerRepository>();
 
                 return services;
             }

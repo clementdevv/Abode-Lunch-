@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "2cuDG6UQNPPMDO4dxdeinOKWrwFSnI9MI2j2R7GIhir+mgHpJKBG2dg1nCeG7Pg925a+JKphZgzjRLxpHx9RNQ==",
-  "success": true,
+  "dgSpecHash": "X9Fors9HvATC0S1Z6kO1/qzjfwlPoqfY9APk3FzBjuteTyP+Dq2qUV76iNxYPyB09q6y10fN0OLkT6oIm+iUjw==",
+  "success": false,
   "projectFilePath": "C:\\Users\\san\\Desktop\\dotnet_projects\\AbodeLunch\\AbodeLunch.Application\\AbodeLunch.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\san\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
@@ -45,6 +45,15 @@
       "warningLevel": 1,
       "message": "Package 'ServiceStack.Text 3.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
       "libraryId": "ServiceStack.Text",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: MediatR from 12.4.0 to 12.3.0. Reference the package directly from the project to select a different version. \r\n AbodeLunch.Application -> AbodeLunch.Domain -> MediatR (>= 12.4.0) \r\n AbodeLunch.Application -> MediatR (>= 12.3.0)",
+      "libraryId": "MediatR",
       "targetGraphs": [
         "net8.0"
       ]
